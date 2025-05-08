@@ -92,3 +92,36 @@ const member13e3 :{
 
 
 
+// practice object 
+
+
+const membere ={
+    name: 'jahidul',
+    age: 33,
+    isMarried: true,
+    wife: 'bibi'
+}
+
+// ei jinish take ami ekhn typeScript diye korbo \
+
+const Lalmia:{
+    name: string,
+    age : number,
+    isMarried: boolean,
+    wife: string
+
+}={
+    name: 'JAHIDUL',
+    age: 34,
+    isMarried: true,
+    wife: 'laila'
+}
+
+
+const lalo :{
+    readonly name: string,
+    age?:number
+}={
+    name:'alamin',
+    age: 6
+}
